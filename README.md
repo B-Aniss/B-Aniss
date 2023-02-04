@@ -16,5 +16,5 @@ I'm currently learning in depth stuff about javascript and different other frame
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sol032&icon=5&color=12)]
+![](https://visitcount.itsvg.in/api?id=sol032&icon=5&color=12)
 
