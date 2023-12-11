@@ -1,7 +1,7 @@
 ### Hello there! Am Solo! 👋
 
 # 💫 About Me:
-I'm currently learning in depth stuff about javascript and different other frameworks/libraries<br>I'm looking for help in some project ideas and overall creativity <br>Ask me about anything honestly
+I'm currently learning in depth stuff about javascript and different other frameworks/libraries<br>Ask me about anything honestly
 
 
 ## 🌐 Socials:
