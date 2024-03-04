@@ -1,7 +1,7 @@
 ### Hello there! Am Solo! 👋
 
 # 💫 About Me:
-I'm currently learning in depth stuff about javascript and different other frameworks/libraries<br>Ask me about anything honestly
+18 year old students that likes creating and coding random stuff on his free time using multiple languages, coding is a passion and a hobby and would probably be my career.
 
 
 ## 🌐 Socials:
