@@ -1,4 +1,8 @@
-<h2 align="left">Hello, My name is Solo and I'm a 18 year old students that likes creating and coding random stuff on his free time using multiple languages, coding is a passion and a hobby and would probably be my career.</h2>
+<h2 align="left">Hello, My name is Solo and I'm a 18 year old students that likes creating and coding random stuff on his free time using multiple languages, coding is a passion and a hobby and would probably be my career</h2>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE5cnRmNjJ3MjZnbWhpa2YzMGlubXczYTgwZXNxNXdyMXl4dzB4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif"  />
 
 ###
 
@@ -22,9 +26,5 @@
 
 <div align="left">
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE5cnRmNjJ3MjZnbWhpa2YzMGlubXczYTgwZXNxNXdyMXl4dzB4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif"  />
 
 ###
