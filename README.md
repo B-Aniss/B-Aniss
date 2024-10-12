@@ -1,7 +1,7 @@
 ### Hello there! Am Aniss! 👋
 
 # 💫 About Me:
-18 year old student that likes creating and coding random stuff on his free time using multiple languages, coding is a passion and a hobby and would probably be my career.
+19 year old student that likes creating and coding random stuff on his free time using multiple languages, coding is a passion and a hobby and would probably be my career.
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dev_zolo) 
